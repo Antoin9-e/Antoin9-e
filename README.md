@@ -14,6 +14,12 @@
 
 
 
+# Current projects
+
+- SproGfy ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![HTML](https://img.shields.io/badge/HTML-orange) ![CSS](https://img.shields.io/badge/CSS-blueviolet) 
+- Ruffinary ![Java](https://img.shields.io/badge/Java-red) ![SQL](https://img.shields.io/badge/SQL-green)
+
+
 <!---
 AntoineLaD/AntoineLaD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
